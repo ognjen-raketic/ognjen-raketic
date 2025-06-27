@@ -6,50 +6,50 @@ I once mapped out factory floors and orchestrated machines; now, I design cloud 
 
 🔥 Skills
 
-  *Cloud: AWS (EC2, IAM, VPC, Lambda, S3, RDS, ECS, CDK)
+  * Cloud: AWS (EC2, IAM, VPC, Lambda, S3, RDS, ECS, CDK)
 
-  *Infrastructure as Code: Terraform, Ansible
+  * Infrastructure as Code: Terraform, Ansible
 
-  *Containers: Docker, Kubernetes
+  * Containers: Docker, Kubernetes
 
-  *CI/CD: Jenkins, GitHub Actions
+  * CI/CD: Jenkins, GitHub Actions
 
-  *Scripting: Bash, Python
+  * Scripting: Bash, Python
 
-  *OS: Rocky Linux
+  * OS: Rocky Linux
 
 🛠️ Current Projects
 
-  *Building AWS infrastructure with Terraform
+  * Building AWS infrastructure with Terraform
 
-  *Creating CI/CD pipelines using Jenkins & GitHub Actions
+  * Creating CI/CD pipelines using Jenkins & GitHub Actions
 
-  *Automating Docker-based microservices deployments
+  * Automating Docker-based microservices deployments
 
-  *Learning Kubernetes orchestration and Helm
+  * Learning Kubernetes orchestration and Helm
 
 🌱 Learning Goals
 I’m immersing myself in the ecosystem of modern DevOps: mastering AWS services (EC2, S3, Lambda, VPC), weaving security into every line of Terraform code, building CI/CD pipelines that deliver reliably with Jenkins and GitHub Actions, and exploring Kubernetes orchestration to manage microservices with confidence. Alongside this technical growth, I’m honing soft skills of communication, mentorship, and leadership — because great DevOps isn’t just about code, but about people and culture too.
 
-  *DevSecOps and security best practices
+  * DevSecOps and security best practices
 
-  *Monitoring & observability (Prometheus, Grafana)
+  * Monitoring & observability (Prometheus, Grafana)
 
-  *Scaling cloud-native architectures
+  * Scaling cloud-native architectures
 
 🎯 Fun Facts
 
-  *Avid Gym Rat & BookWorm
+  * Avid Gym Rat & BookWorm
 
-  *Obsessed with automation and continuous learning
+  * Obsessed with automation and continuous learning
 
-  *Fueled by coffee & tea ☕ and curiosity
+  * Fueled by coffee & tea ☕ and curiosity
 
-  *Proud husband and father of two
+  * Proud husband and father of two
 
-  *Strong believer in balancing family and career growth
+  * Strong believer in balancing family and career growth
 
-  *Holds a Master’s Degree in Industrial Engineering and Management and in Computer Science - Computational Finance(Master's thesis in progress), currently expanding skills into DevOps and Cloud Engineering
+  * Holds a Master’s Degree in Industrial Engineering and Management and in Computer Science - Computational Finance(Master's thesis in progress), currently expanding skills into DevOps and Cloud Engineering
 
 📫 Connect with Me
 ognjen.raketic@gmail.com
