@@ -1,55 +1,82 @@
-👋 Hi, I'm Ognjen Raketic, MEng
+# 👋 Hi, I'm Ognjen Raketic, MEng
 
-🚀 About Me
+## 🚀 About Me  
+From leading technical teams in manufacturing to designing resilient infrastructure in the cloud — my journey from Industrial Engineering to DevOps is a reflection of my passion for building reliable, scalable, and secure systems.
 
-I once mapped out factory floors and orchestrated machines; now, I design cloud systems that hum with digital precision. My journey from industrial engineering into DevOps isn’t just a career shift — it’s a transformation of how I see the world: as a canvas of processes waiting to be optimized, secured, and scaled. I believe in pipelines that ship bold ideas into reality, automation that liberates human creativity, and code that lives beyond the terminal window. If you share this vision, let’s connect and build the future, one container at a time.
+Where I once optimized factory floors, I now optimize pipelines.  
+Where I once solved physical bottlenecks, I now resolve deployment frictions.  
 
-🔥 Skills
+Driven by automation, structure, and the joy of continuous improvement, I'm building the bridge between engineering precision and digital transformation.
 
-  * Cloud: AWS (EC2, IAM, VPC, Lambda, S3, RDS, ECS, CDK)
+💡 I'm open to full-time roles, relocation support, or hybrid positions based in Austria. Let’s connect and explore how I can bring value to your DevOps team from day one.
 
-  * Infrastructure as Code: Terraform, Ansible
 
-  * Containers: Docker, Kubernetes
+---
 
-  * CI/CD: Jenkins, GitHub Actions
+## 🔥 Core Skills
 
-  * Scripting: Bash, Python
+**Cloud:**  
+AWS (EC2, IAM, VPC, Lambda, S3, RDS, ECS, CDK)
 
-  * OS: Rocky Linux
+**Infrastructure as Code:**  
+Terraform, Ansible
 
-🛠️ Current Projects
+**Containers & Orchestration:**  
+Docker, Kubernetes, Helm
 
-  * Building AWS infrastructure with Terraform
+**CI/CD:**  
+Jenkins, GitHub Actions
 
-  * Creating CI/CD pipelines using Jenkins & GitHub Actions
+**Scripting & Automation:**  
+Bash, Python
 
-  * Automating Docker-based microservices deployments
+**Monitoring:**  
+Prometheus, Grafana
 
-  * Learning Kubernetes orchestration and Helm
+**OS:**  
+Rocky Linux
 
-🌱 Learning Goals
-I’m immersing myself in the ecosystem of modern DevOps: mastering AWS services (EC2, S3, Lambda, VPC), weaving security into every line of Terraform code, building CI/CD pipelines that deliver reliably with Jenkins and GitHub Actions, and exploring Kubernetes orchestration to manage microservices with confidence. Alongside this technical growth, I’m honing soft skills of communication, mentorship, and leadership — because great DevOps isn’t just about code, but about people and culture too.
+---
 
-  * DevSecOps and security best practices
+## 🛠️ Current Projects
 
-  * Monitoring & observability (Prometheus, Grafana)
+- Building AWS infrastructure with Terraform modules (secure, reusable IaC)
+- Creating full CI/CD pipelines for Dockerized applications using Jenkins & GitHub Actions
+- Working on Kubernetes microservice deployment with Helm charts
+- Implementing monitoring dashboards using Prometheus & Grafana
 
-  * Scaling cloud-native architectures
+---
 
-🎯 Fun Facts
+## 🌱 Learning Goals
 
-  * Avid Gym Rat & BookWorm
+Currently immersed in real-world DevOps workflows, focusing on:
 
-  * Obsessed with automation and continuous learning
+- AWS Cloud architecture and cost-efficient scaling (FinOps principles)
+- DevSecOps practices: embedding security into Terraform, CI/CD and IAM
+- Observability: setting up alerting and metrics with Prometheus & Grafana
+- Kubernetes networking, RBAC, and Helm for production-grade clusters
+- Communication and leadership within cross-functional agile teams
 
-  * Fueled by coffee & tea ☕ and curiosity
+This learning journey is not just about becoming a better DevOps engineer — it's about becoming a reliable teammate, a problem solver, and someone who helps systems (and people) run better.
+---
 
-  * Proud husband and father of two
+## 🎯 Fun Facts
 
-  * Strong believer in balancing family and career growth
+- Proud husband & father of two amazing boys 👨‍👩‍👦‍👦  
+- Gym rat & audiobook addict 🏋️📚  
+- Fueled by coffee ☕, driven by curiosity  
+- Passionate about smart automation, clean systems, and lifelong learning  
+- Holds a Master’s Degree in Industrial Engineering & Management  
+- Currently completing a second Master's in Computational Finance (thesis: Machine Learning in Fixed-Income Portfolios)
 
-  * Holds a Master’s Degree in Industrial Engineering and Management and in Computer Science - Computational Finance(Master's thesis in progress), currently expanding skills into DevOps and Cloud Engineering
+---
 
-📫 Connect with Me
-ognjen.raketic@gmail.com
+## 📫 Connect with Me
+
+📧 ognjen.raketic@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ognjen-raketic/)  
+🐙 [GitHub](https://github.com/raketic-ognjen)
+🌐 [Portfolio Website][forgeopsbyognjen.online]
+---
+
+🚀 *Let’s connect if you’re looking for a future-ready DevOps engineer with a mindset for both infrastructure and impact.*
