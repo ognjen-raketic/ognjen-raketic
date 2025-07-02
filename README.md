@@ -64,7 +64,7 @@ Currently immersed in real-world DevOps workflows, focusing on:
 ## 🎯 Fun Facts
 
 - Proud husband & father of two amazing boys 👨‍👩‍👦‍👦  
-- Gym rat & audiobook addict 🏋️📚  
+- Workout rat(I have my own program based on Elite Military training) & Book/audiobook addict 🏋️📚  
 - Fueled by coffee ☕, driven by curiosity  
 - Passionate about smart automation, clean systems, and lifelong learning  
 - Holds a Master’s Degree in Industrial Engineering & Management  
