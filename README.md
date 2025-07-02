@@ -78,6 +78,7 @@ Currently immersed in real-world DevOps workflows, focusing on:
 🔗 [LinkedIn](https://www.linkedin.com/in/ognjen-raketic/)  
 🐙 [GitHub](https://github.com/raketic-ognjen)
 🌐 [Portfolio Website](https://forgeopsbyognjen.online)
+
 ---
 
 🚀 *Let’s connect if you’re looking for a future-ready DevOps engineer with a mindset for both infrastructure and impact.*
