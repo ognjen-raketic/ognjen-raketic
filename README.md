@@ -57,7 +57,8 @@ Currently immersed in real-world DevOps workflows, focusing on:
 - Kubernetes networking, RBAC, and Helm for production-grade clusters
 - Communication and leadership within cross-functional agile teams
 
-  This learning journey is not just about becoming a better DevOps engineer — it's about becoming a reliable teammate, a problem solver, and someone who helps systems (and people) run better.
+💡  This learning journey is not just about becoming a better DevOps engineer — it's about becoming a reliable teammate, a problem solver, and someone who helps systems (and people) run better.
+
 ---
 
 ## 🎯 Fun Facts
