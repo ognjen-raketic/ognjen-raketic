@@ -76,7 +76,7 @@ Currently immersed in real-world DevOps workflows, focusing on:
 
 📧 ognjen.raketic@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ognjen-raketic/)  
-🐙 [GitHub](https://github.com/raketic-ognjen)
+🐙 [GitHub](https://github.com/raketic-ognjen)<br>
 🌐 [Portfolio Website](https://forgeopsbyognjen.online)
 
 ---
