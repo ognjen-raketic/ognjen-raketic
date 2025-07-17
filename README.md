@@ -1,7 +1,7 @@
-##👋 Hi, there!
+# 👋 Hi, there!
 _______________________________
 🚀 About Me
-```R
+```r
 
 From leading technical teams in manufacturing and optimizing processes to deep-diving into financial data and applying machine learning – my journey reflects a passion for extracting insights and solving complex problems using data.
 
@@ -9,7 +9,7 @@ Where I once optimized factory floors, I now optimize data flows and analytical 
 
 💡 I'm open to full-time roles, relocation support, or hybrid positions based in Austria. Let's connect and explore how I can bring value to your Data Science or Quantitative Analysis team from day one.
 ```
-##🔥 Core Skills
+# 🔥 Core Skills
 ________________
 Programming Languages & Tools
 R: dplyr, ggplot2, caret, tidymodels, forecast, quantmod
