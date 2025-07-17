@@ -42,8 +42,8 @@ time_series_models <- c("ARIMA", "GARCH", "Prophet")
 risk_management_techniques <- c("Risk Metrics", "Simulations", "Portfolio Optimization")
 
 # Operational Excellence & Leadership (Transferable)
-# process_optimization_methods <- c("Lean", "Six Sigma", "Root Cause Analysis (5 Whys, Ishikawa)", "KPI Management (MTTR, MTBF, OEE)")
-# leadership_styles <- c("Team Leadership", "Mentoring", "Talent Development", "Cross-functional Collaboration", "Strategic Thinking")
+process_optimization_methods <- c("Lean", "Six Sigma", "Root Cause Analysis (5 Whys, Ishikawa)", "KPI Management (MTTR, MTBF, OEE)")
+leadership_styles <- c("Team Leadership", "Mentoring", "Talent Development", "Cross-functional Collaboration", "Strategic Thinking")
 ```
 
 # ---
