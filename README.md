@@ -1,102 +1,86 @@
-# 👋 Hi, there!
-_______________________________
-🚀 About Me
-```r
-name <- c(Ognjen Raketic)
-curr_positiom <- c(Technical Director - Maintenance & Energetics)
+# 👋 Hi, I'm Ognjen Raketic, M.Eng.
 
-From leading technical teams in manufacturing and optimizing processes to deep-diving into financial data and applying machine learning – my journey reflects a passion for extracting insights and solving complex problems using data.
+# 🚀 About Me
+# ---
+# My journey: From industrial engineering and management to Data Science and Quantitative Analysis.
+# I'm passionate about extracting insights and solving complex problems using data.
 
-Where I once optimized factory floors, I now optimize data flows and analytical models. Where I once resolved physical bottlenecks, I now identify and resolve data frictions and algorithmic challenges. Driven by industrial engineering's precision, financial quantitative rigor, and the joy of continuous improvement, I'm building the bridge between operational excellence and data-driven digital transformation.
+# Where I once optimized factory floors, I now optimize data flows and analytical models.
+# Where I once resolved physical bottlenecks, I now find and resolve data frictions and algorithmic challenges.
+# Driven by industrial engineering precision, financial quantitative rigor, and the joy of continuous improvement,
+# I'm building the bridge between operational excellence and data-driven digital transformation.
 
-💡 I'm open to full-time roles, relocation support, or hybrid positions based in Austria. Let's connect and explore how I can bring value to your Data Science or Quantitative Analysis team from day one.
-```
+# 💡 I'm open to full-time roles, relocation support, or hybrid positions in Austria.
+# Let's connect and explore how I can contribute to your Data Science or Quantitative team.
+
+# ---
+
 # 🔥 Core Skills
-________________
-Programming Languages & Tools
-R: dplyr, ggplot2, caret, tidymodels, forecast, quantmod
+# ---r
 
-Python: pandas, numpy, matplotlib, seaborn, scikit-learn, TensorFlow, Keras, statsmodels, yfinance
+# Programming Languages & Tools
+# install.packages(c("dplyr", "ggplot2", "caret", "tidymodels", "forecast", "quantmod"))
+# install.packages(c("pandas", "numpy", "matplotlib", "seaborn", "scikit-learn", "tensorflow", "keras", "statsmodels", "yfinance"))
+# database_connection <- DBI::dbConnect(RPostgres::Postgres(), ...) # For SQL
 
-SQL: Querying, Optimization, Relational Databases
+# Data Science & Machine Learning
+# data_analysis_skills <- c("Exploratory Data Analysis (EDA)", "Data Cleaning", "Feature Engineering", "Data Wrangling")
+# ml_models <- list(
+#   supervised = c("Regression", "Classification"),
+#   unsupervised = c("Clustering"),
+#   advanced = c("LSTM", "GRU", "Hybrid Models")
+# )
+# model_evaluation_metrics <- c("Accuracy", "Precision", "Recall", "F1-Score", "ROC-AUC")
 
-Version Control: Git, GitHub
+# Quantitative Analysis & Finance
+# financial_concepts <- c("Volatility", "Return", "Beta", "Derivatives", "Fixed Income", "Credit Risk")
+# time_series_models <- c("ARIMA", "GARCH", "Prophet")
+# risk_management_techniques <- c("Risk Metrics", "Simulations", "Portfolio Optimization")
 
-Dashboards: Power BI, Excel (for BI & Analytics)
+# Operational Excellence & Leadership (Transferable)
+# process_optimization_methods <- c("Lean", "Six Sigma", "Root Cause Analysis (5 Whys, Ishikawa)", "KPI Management (MTTR, MTBF, OEE)")
+# leadership_styles <- c("Team Leadership", "Mentoring", "Talent Development", "Cross-functional Collaboration", "Strategic Thinking")
 
-Data Science & Machine Learning
-Data Analysis: Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering, Data Wrangling
+# ---
 
-Machine Learning: Supervised Learning (Regression, Classification), Unsupervised Learning (Clustering), Model Evaluation, Hybrid Models
+# 🛠️ Current Projects
+# ---r
 
-Deep Learning: LSTM, GRU
+# Master's Thesis: Robust Portfolios with Machine Learning Techniques
+# project_thesis_scope <- "Development and evaluation of ML models (e.g., Ridge Regression, Clustering, advanced time series models)
+#                          for optimizing financial portfolios and risk management, focusing on enhancing portfolio resilience."
+# project_thesis_tools <- c("R", "Python", "Financial packages", "ML libraries")
+# display_project(project_thesis_scope, project_thesis_tools)
 
-Natural Language Processing (NLP): Sentiment Analysis (fundamentals)
+# Predictive Maintenance System for Manufacturing Line Optimization
+# project_maintenance_scope <- "Application of ML (e.g., LSTM, Random Forest) to sensor data and maintenance logs
+#                               to predict equipment failures, aiming to reduce downtime and optimize schedules."
+# project_maintenance_tools <- c("R", "Python", "Sensor data", "ML algorithms")
+# display_project(project_maintenance_scope, project_maintenance_tools)
 
-Quantitative Analysis & Finance
-Financial Modeling: Volatility, Return, Beta
+# Customer/Employee Feedback Sentiment Analysis & KPI Correlation
+# project_sentiment_scope <- "Utilizing NLP to analyze textual feedback and correlate it with key operational
+#                             performance indicators (KPIs) to uncover drivers of satisfaction and business insights."
+# project_sentiment_tools <- c("R", "Python", "NLP packages", "Analytical tools")
+# display_project(project_sentiment_scope, project_sentiment_tools)
 
-Time Series Analysis: ARIMA, GARCH, Prophet
+# ---
 
-Risk Management: Risk Metrics, Simulations
+# 🌱 Learning Goals
+# ---r
 
-Quantitative Finance: Derivatives, Fixed Income, Credit Risk, Portfolio Optimization
+# I'm currently immersed in advanced Data Science topics, focusing on:
+# learning_goals <- list(
+#   advanced_ml = "Deep Learning and its applications in financial time series",
+#   quant_strategies = "Advanced Risk Analysis and quantitative strategies with ML",
+#   model_optimization = "Model performance optimization and scalability of data solutions",
+#   cloud_data = "Cloud platforms (AWS, Azure) for big data storage and processing",
+#   soft_skills = "Communication and leadership within cross-functional analytical teams"
+# )
+# for (goal in learning_goals) {
+#   print(paste0("# ", goal))
+# }
 
-Statistical Analysis: Hypothesis Testing, Inferential Statistics, Econometrics
-
-Operational Excellence & Leadership (Transferable)
-Process Optimization: Lean, Six Sigma, Root Cause Analysis (5 Whys, Ishikawa), KPI Management (MTTR, MTBF, OEE)
-
-Leadership & Team Management: Team Leadership, Mentoring, Talent Development, Cross-functional Collaboration
-
-Strategic Thinking: Data-Driven Decision Making, Complex Problem Solving, Analytical Mindset
-
-##🛠️ Current Projects
-_____________________
-Master's Thesis: Robust Portfolios with Machine Learning Techniques
-
-Description: Developing and evaluating Machine Learning models (e.g., Ridge Regression, Clustering, advanced time series models) for optimizing financial portfolios and risk management. Focused on enhancing portfolio resilience to market volatility and traditional optimization limitations.
-
-Tools: R, Python (specific packages for financial analysis and ML).
-
-Predictive Maintenance System for Manufacturing Line Optimization
-
-Description: Applying machine learning (e.g., LSTM, Random Forest) to sensor data and maintenance logs to predict equipment failures, aiming to reduce downtime and optimize maintenance schedules.
-
-Tools: R, Python (specific packages for sensor data processing and ML).
-
-Customer/Employee Feedback Sentiment Analysis & KPI Correlation
-
-Description: Utilizing Natural Language Processing (NLP) to analyze textual feedback and correlate it with key operational performance indicators (KPIs) to uncover drivers of satisfaction and business insights.
-
-Tools: R, Python (specific NLP and analytical packages).
-
-##🌱 Learning Goals
-____________________
-I'm currently immersed in advanced Data Science topics, focusing on:
-
-Deep Learning and its applications in financial time series.
-
-Advanced Risk Analysis and quantitative strategies with ML.
-
-Model performance optimization and scalability of data solutions.
-
-Cloud platforms (AWS, Azure) for big data storage and processing.
-
-Communication and leadership within cross-functional analytical teams.
-
-💡 This learning journey isn't just about becoming a better Data Scientist/Quantitative Analyst – it's about becoming a reliable teammate, a problem solver, and someone who helps systems (and people) run better.
-
-🎯 Fun Facts
-Proud husband & father of two amazing boys 👨‍👩‍👦‍👦
-
-Workout enthusiast (I have my own program based on Elite Military training) & Book/audiobook addict 🏋️📚
-
-Fueled by coffee ☕, driven by curiosity
-
-Passionate about smart automation, clean systems, and lifelong learning
-
-Holds a Master’s Degree in Industrial Engineering & Management (Faculty of Technical Sciences)
-
-Currently completing a second Master's in Computational Finance (School of Computing) (Thesis topic: Machine Learning in Fixed-Income Portfolios)
-
+# message <- "This learning journey isn't just about becoming a better Data Scientist/Quantitative Analyst –
+#             it's about becoming a reliable teammate, a problem solver, and someone who helps systems (and people) run better."
+#
