@@ -1,84 +1,98 @@
-# 👋 Hi, I'm Ognjen Raketic, MEng
+I'm so glad you like it! It's fantastic to hear that we've captured your unique journey and strengths.
 
-## 🚀 About Me  
-From leading technical teams in manufacturing to designing resilient infrastructure in the cloud — my journey from Industrial Engineering to DevOps is a reflection of my passion for building reliable, scalable, and secure systems.
+Here's the English version of your GitHub README, perfectly tailored for Data Science and Quantitative Analysis roles:
 
-Where I once optimized factory floors, I now optimize pipelines.  
-Where I once solved physical bottlenecks, I now resolve deployment frictions.  
+👋 Hi, I'm Ognjen Raketic, M.Eng.
+🚀 About Me
+From leading technical teams in manufacturing and optimizing processes to deep-diving into financial data and applying machine learning – my journey reflects a passion for extracting insights and solving complex problems using data.
 
-Driven by automation, structure, and the joy of continuous improvement, I'm building the bridge between engineering precision and digital transformation.
+Where I once optimized factory floors, I now optimize data flows and analytical models. Where I once resolved physical bottlenecks, I now identify and resolve data frictions and algorithmic challenges. Driven by industrial engineering's precision, financial quantitative rigor, and the joy of continuous improvement, I'm building the bridge between operational excellence and data-driven digital transformation.
 
-💡 I'm open to full-time roles, relocation support, or hybrid positions based in Austria. Let’s connect and explore how I can bring value to your DevOps team from day one.
+💡 I'm open to full-time roles, relocation support, or hybrid positions based in Austria. Let's connect and explore how I can bring value to your Data Science or Quantitative Analysis team from day one.
 
+🔥 Core Skills
+Programming Languages & Tools
+R: dplyr, ggplot2, caret, tidymodels, forecast, quantmod
 
----
+Python: pandas, numpy, matplotlib, seaborn, scikit-learn, TensorFlow, Keras, statsmodels, yfinance
 
-## 🔥 Core Skills
+SQL: Querying, Optimization, Relational Databases
 
-**Cloud:**  
-AWS (EC2, IAM, VPC, Lambda, S3, RDS, ECS, CDK)
+Version Control: Git, GitHub
 
-**Infrastructure as Code:**  
-Terraform, Ansible
+Dashboards: Power BI, Excel (for BI & Analytics)
 
-**Containers & Orchestration:**  
-Docker, Kubernetes, Helm
+Data Science & Machine Learning
+Data Analysis: Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering, Data Wrangling
 
-**CI/CD:**  
-Jenkins, GitHub Actions
+Machine Learning: Supervised Learning (Regression, Classification), Unsupervised Learning (Clustering), Model Evaluation, Hybrid Models
 
-**Scripting & Automation:**  
-Bash, Python
+Deep Learning: LSTM, GRU
 
-**Monitoring:**  
-Prometheus, Grafana
+Natural Language Processing (NLP): Sentiment Analysis (fundamentals)
 
-**OS:**  
-Rocky Linux
+Quantitative Analysis & Finance
+Financial Modeling: Volatility, Return, Beta
 
----
+Time Series Analysis: ARIMA, GARCH, Prophet
 
-## 🛠️ Current Projects
+Risk Management: Risk Metrics, Simulations
 
-- Building AWS infrastructure with Terraform modules (secure, reusable IaC)
-- Creating full CI/CD pipelines for Dockerized applications using Jenkins & GitHub Actions
-- Working on Kubernetes microservice deployment with Helm charts
-- Implementing monitoring dashboards using Prometheus & Grafana
+Quantitative Finance: Derivatives, Fixed Income, Credit Risk, Portfolio Optimization
 
----
+Statistical Analysis: Hypothesis Testing, Inferential Statistics, Econometrics
 
-## 🌱 Learning Goals
+Operational Excellence & Leadership (Transferable)
+Process Optimization: Lean, Six Sigma, Root Cause Analysis (5 Whys, Ishikawa), KPI Management (MTTR, MTBF, OEE)
 
-Currently immersed in real-world DevOps workflows, focusing on:
+Leadership & Team Management: Team Leadership, Mentoring, Talent Development, Cross-functional Collaboration
 
-- AWS Cloud architecture and cost-efficient scaling (FinOps principles)
-- DevSecOps practices: embedding security into Terraform, CI/CD and IAM
-- Observability: setting up alerting and metrics with Prometheus & Grafana
-- Kubernetes networking, RBAC, and Helm for production-grade clusters
-- Communication and leadership within cross-functional agile teams
+Strategic Thinking: Data-Driven Decision Making, Complex Problem Solving, Analytical Mindset
 
-💡  This learning journey is not just about becoming a better DevOps engineer — it's about becoming a reliable teammate, a problem solver, and someone who helps systems (and people) run better.
+🛠️ Current Projects
+Master's Thesis: Robust Portfolios with Machine Learning Techniques
 
----
+Description: Developing and evaluating Machine Learning models (e.g., Ridge Regression, Clustering, advanced time series models) for optimizing financial portfolios and risk management. Focused on enhancing portfolio resilience to market volatility and traditional optimization limitations.
 
-## 🎯 Fun Facts
+Tools: R, Python (specific packages for financial analysis and ML).
 
-- Proud husband & father of two amazing boys 👨‍👩‍👦‍👦  
-- Workout rat(I have my own program based on Elite Military training) & Book/audiobook addict 🏋️📚  
-- Fueled by coffee ☕, driven by curiosity  
-- Passionate about smart automation, clean systems, and lifelong learning  
-- Holds a Master’s Degree in Industrial Engineering & Management  
-- Currently completing a second Master's in Computational Finance (thesis: Machine Learning in Fixed-Income Portfolios)
+Predictive Maintenance System for Manufacturing Line Optimization
 
----
+Description: Applying machine learning (e.g., LSTM, Random Forest) to sensor data and maintenance logs to predict equipment failures, aiming to reduce downtime and optimize maintenance schedules.
 
-## 📫 Connect with Me
+Tools: R, Python (specific packages for sensor data processing and ML).
 
-📧 ognjen.raketic@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ognjen-raketic/)  
-🐙 [GitHub](https://github.com/raketic-ognjen)<br>
-🌐 [Portfolio Website](https://forgeopsbyognjen.online)
+Customer/Employee Feedback Sentiment Analysis & KPI Correlation
 
----
+Description: Utilizing Natural Language Processing (NLP) to analyze textual feedback and correlate it with key operational performance indicators (KPIs) to uncover drivers of satisfaction and business insights.
 
-🚀 *Let’s connect if you’re looking for a future-ready DevOps engineer with a mindset for both infrastructure and impact.*
+Tools: R, Python (specific NLP and analytical packages).
+
+🌱 Learning Goals
+I'm currently immersed in advanced Data Science topics, focusing on:
+
+Deep Learning and its applications in financial time series.
+
+Advanced Risk Analysis and quantitative strategies with ML.
+
+Model performance optimization and scalability of data solutions.
+
+Cloud platforms (AWS, Azure) for big data storage and processing.
+
+Communication and leadership within cross-functional analytical teams.
+
+💡 This learning journey isn't just about becoming a better Data Scientist/Quantitative Analyst – it's about becoming a reliable teammate, a problem solver, and someone who helps systems (and people) run better.
+
+🎯 Fun Facts
+Proud husband & father of two amazing boys 👨‍👩‍👦‍👦
+
+Workout enthusiast (I have my own program based on Elite Military training) & Book/audiobook addict 🏋️📚
+
+Fueled by coffee ☕, driven by curiosity
+
+Passionate about smart automation, clean systems, and lifelong learning
+
+Holds a Master’s Degree in Industrial Engineering & Management (Faculty of Technical Sciences)
+
+Currently completing a second Master's in Computational Finance (School of Computing) (Thesis topic: Machine Learning in Fixed-Income Portfolios)
+
