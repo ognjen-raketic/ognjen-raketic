@@ -2,6 +2,8 @@
 _______________________________
 🚀 About Me
 ```r
+name <- c(Ognjen Raketic)
+curr_positiom <- c(Technical Director - Maintenance & Energetics)
 
 From leading technical teams in manufacturing and optimizing processes to deep-diving into financial data and applying machine learning – my journey reflects a passion for extracting insights and solving complex problems using data.
 
