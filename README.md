@@ -131,9 +131,9 @@
 ```r
 # contact_info <- list(
 #   email = "ognjen.raketic@gmail.com",
-#   linkedin = (https://www.linkedin.com/in/ognjen-raketic)",
-#   github = "(https://www.github.com/ognjen-raketic/)",           
-#   portfolio = "(https://www.forgeopsbyognjen.online)"               
+#   linkedin =[](https://www.linkedin.com/in/ognjen-raketic)",
+#   github = "[](https://www.github.com/ognjen-raketic/)",           
+#   portfolio = "[](https://www.forgeopsbyognjen.online)"               
 # )
 # print(paste0("# 📧 ", contact_info$email))
 # print(paste0("# 🔗 ", contact_info$linkedin))
