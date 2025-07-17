@@ -1,13 +1,15 @@
-#👋 Hi, I'm Ognjen Raketic, M.Eng.
+##👋 Hi, there!
 _______________________________
 🚀 About Me
+```R
+
 From leading technical teams in manufacturing and optimizing processes to deep-diving into financial data and applying machine learning – my journey reflects a passion for extracting insights and solving complex problems using data.
 
 Where I once optimized factory floors, I now optimize data flows and analytical models. Where I once resolved physical bottlenecks, I now identify and resolve data frictions and algorithmic challenges. Driven by industrial engineering's precision, financial quantitative rigor, and the joy of continuous improvement, I'm building the bridge between operational excellence and data-driven digital transformation.
 
 💡 I'm open to full-time roles, relocation support, or hybrid positions based in Austria. Let's connect and explore how I can bring value to your Data Science or Quantitative Analysis team from day one.
-
-#🔥 Core Skills
+```
+##🔥 Core Skills
 ________________
 Programming Languages & Tools
 R: dplyr, ggplot2, caret, tidymodels, forecast, quantmod
@@ -47,7 +49,8 @@ Leadership & Team Management: Team Leadership, Mentoring, Talent Development, Cr
 
 Strategic Thinking: Data-Driven Decision Making, Complex Problem Solving, Analytical Mindset
 
-🛠️ Current Projects
+##🛠️ Current Projects
+_____________________
 Master's Thesis: Robust Portfolios with Machine Learning Techniques
 
 Description: Developing and evaluating Machine Learning models (e.g., Ridge Regression, Clustering, advanced time series models) for optimizing financial portfolios and risk management. Focused on enhancing portfolio resilience to market volatility and traditional optimization limitations.
@@ -66,7 +69,8 @@ Description: Utilizing Natural Language Processing (NLP) to analyze textual feed
 
 Tools: R, Python (specific NLP and analytical packages).
 
-🌱 Learning Goals
+##🌱 Learning Goals
+____________________
 I'm currently immersed in advanced Data Science topics, focusing on:
 
 Deep Learning and its applications in financial time series.
